@@ -1,0 +1,11 @@
+{
+  "name": "rustfmt",
+  "description": "A tool for formatting Rust code according to style guidelines."
+  "maintainer": {
+    "name": "Arvid E. Picciani",
+    "email": "aep@hy5.berlin"
+  },
+  "languages" : ["Rust"],
+  "version": "1",
+  "spec_version": "0.0.1"
+}
